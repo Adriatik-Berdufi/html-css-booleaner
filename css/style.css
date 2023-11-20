@@ -15,3 +15,29 @@ main{
 h1{
     font-size: 42px;
 }
+main{
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 132, 255);
+}
+.info{
+    color: gray;
+}
+.description-img{
+    font-size: 12px;
+}
+.color-yellow{
+    background-color: yellow;
+}
+thead{
+    background-color: rgb(0, 132, 255);
+    color: whitesmoke;
+}
+.colum-1, .colum-2 {
+    width: 25%;
+}
+.row-1, .row-3{
+    background-color: aqua;
+}
