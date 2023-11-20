@@ -2,9 +2,16 @@ header{
     background-color: rgb(88, 88, 243);
     height:100px;
     background-image: url(../img/pattern.png);
-    background-size: contain;    
+    background-size:400px;    
 }
 .logo{
     width: 200px;
     padding-top: 50px;
+}
+main{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h1{
+    font-size: 42px;
 }
